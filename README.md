@@ -29,11 +29,11 @@
 
 如果你想接收最新的 GitHub 开源项目资讯，可以关注一下👇
 
-- 公众号: [GitHubDaily](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/weixin.png)
-- 微博: [@GitHubDaily](https://weibo.com/GitHubDaily)
-- 知乎: [@GitHubDaily](https://www.zhihu.com/people/githubdaily)
+- 公众号: [优爱酷](https://wx1.sinaimg.cn/large/a13e8fd1ly4h190upas9yj20ij067dgn.jpg)
+- 微博: [@优爱酷软件](https://weibo.com/u/2705231825)
+- 知乎: [@优爱酷](https://www.zhihu.com/people/uicoolcn)
 
-> 有不错的开源项目，也欢迎到本仓库的 [issues](https://github.com/GitHubDaily/GitHubDaily/issues/new) 推荐或自荐项目，我们期待你的分享。
+> 有不错的开源项目，我们期待你的分享。
 
 ---
 
@@ -41,7 +41,7 @@
 
 下面是对 GitHubDaily 在 2021 年所推荐的项目进行分类整理，方便大家查找以往分享过的内容。
 
-> 过往复盘 [2020](https://github.com/GitHubDaily/GitHubDaily/blob/master/2020.md)，[2019](https://github.com/GitHubDaily/GitHubDaily/blob/master/2019.md)，[2018](https://github.com/GitHubDaily/GitHubDaily/blob/master/2018.md)
+> 过往复盘 [2020](https://github.com/GitHubTOPDaily/GitHubTOPDaily/blob/master/2020.md)，[2019](https://github.com/GitHubTOPDaily/GitHubTOPDaily/blob/master/2019.md)，[2018](https://github.com/GitHubTOPDaily/GitHubTOPDaily/blob/master/2018.md)
 
 ### 目录
 
