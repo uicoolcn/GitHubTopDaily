@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/weixin.png"><img src="https://img.shields.io/badge/ GitHubDaily-公众号-brightgreen.svg" alt="WeChat"></a>
-  <a href="https://weibo.com/GitHubDaily"><img src="https://img.shields.io/badge/%E6%96%B0%E6%B5%AA-%E5%BE%AE%E5%8D%9A-red" alt="Weibo"></a>
-  <a href="https://www.zhihu.com/people/githubdaily"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-blue" alt="Zhihu"></a>
-  <a href="https://github.com/GitHubDaily/GitHubDaily/stargazers"><img src="https://img.shields.io/github/stars/GitHubDaily/GitHubDaily" alt="GitHub stars"></a>
+  <a href="https://wx1.sinaimg.cn/large/a13e8fd1ly4h190upas9yj20ij067dgn.jpg"><img src="https://wx1.sinaimg.cn/large/a13e8fd1ly4h190upas9yj20ij067dgn.jpg" alt="WeChat"></a>
+  <a href="https://weibo.com/u/2705231825"><img src="https://img.shields.io/badge/%E6%96%B0%E6%B5%AA-%E5%BE%AE%E5%8D%9A-red" alt="Weibo"></a>
+  <a href="https://www.zhihu.com/people/uicoolcn"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-blue" alt="Zhihu"></a>
+  <a href="https://github.com/GitHubTopDaily/GitHubTopDaily/stargazers"><img src="https://img.shields.io/github/stars/GitHubDaily/GitHubDaily" alt="GitHub stars"></a>
 </p>
 
 ## 宗旨
